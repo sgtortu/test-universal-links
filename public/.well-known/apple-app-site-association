@@ -7,6 +7,18 @@
                 "paths": [
                     "*"
                 ]
+            },
+            {
+                "appID": "8M92JYY386.com.manatech.dev",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "8M92JYY386.com.manatech",
+                "paths": [
+                    "*"
+                ]
             }
         ]
     }
