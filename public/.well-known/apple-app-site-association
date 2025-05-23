@@ -3,12 +3,6 @@
         "apps": [],
         "details": [
             {
-                "appID": "JPU8WRDEYD.com.connectamericas",
-                "paths": [
-                    "*"
-                ]
-            },
-            {
                 "appID": "8M92JYY386.com.manatech.dev",
                 "paths": [
                     "*"
