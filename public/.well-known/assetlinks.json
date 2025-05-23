@@ -5,7 +5,10 @@
       "namespace": "android_app",
       "package_name": "com.manatech.dev",
       "sha256_cert_fingerprints":
-        ["9B:0B:F2:FB:7C:1A:9E:42:11:50:F3:FE:D7:50:FA:31:7B:6E:59:25:85:BF:8B:7A:21:71:30:9C:13:CD:8B:FE"]
+        [
+          "9B:0B:F2:FB:7C:1A:9E:42:11:50:F3:FE:D7:50:FA:31:7B:6E:59:25:85:BF:8B:7A:21:71:30:9C:13:CD:8B:FE",
+          "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+        ]
     }
   },
   {
