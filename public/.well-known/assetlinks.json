@@ -1,18 +1,20 @@
 [
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-          "namespace": "android_app",
-          "package_name": "com.manatech.dev",
-          "sha256_cert_fingerprints": ["9B:0B:F2:FB:7C:1A:9E:42:11:50:F3:FE:D7:50:FA:31:7B:6E:59:25:85:BF:8B:7A:21:71:30:9C:13:CD:8B:FE"]
-      }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.manatech.dev",
+      "sha256_cert_fingerprints":
+        ["9B:0B:F2:FB:7C:1A:9E:42:11:50:F3:FE:D7:50:FA:31:7B:6E:59:25:85:BF:8B:7A:21:71:30:9C:13:CD:8B:FE"]
+    }
   },
   {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-          "namespace": "android_app",
-          "package_name": "com.manatech",
-          "sha256_cert_fingerprints": ["B8:0D:F6:14:F5:E2:CE:BC:7F:53:8C:63:EA:34:2C:3C:CD:79:73:89:5E:53:67:6F:FD:45:96:19:8A:B0:E8:11"]
-      }
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.manatech",
+      "sha256_cert_fingerprints":
+        ["B8:0D:F6:14:F5:E2:CE:BC:7F:53:8C:63:EA:34:2C:3C:CD:79:73:89:5E:53:67:6F:FD:45:96:19:8A:B0:E8:11"]
+    }
   }
 ]
